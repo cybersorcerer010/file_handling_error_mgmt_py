@@ -24,4 +24,18 @@ A program that:
 - Handles common errors, such as missing files, permission issues, or invalid file operations.
 - Provides meaningful error messages to guide the user.
 
+## Example
+```python
+❯ python error_handling.py 
+Enter the filename to read: Hello.txt
+File content:
+Hello World!!!
+```
+
+```python
+❯ python error_handling.py 
+Enter the filename to read: Hellos.txt
+Error: The file 'Hellos.txt' does not exist.
+```
+
 ---
