@@ -10,6 +10,14 @@ A program that:
 - Applies a modification (e.g., converts text to uppercase).
 - Saves the modified content into a new file.
 
+## Example
+```python
+❯ python file_read_write.py 
+Enter the input filename: Hello.txt
+Enter the output filename: Hello_World.txt
+Modified content successfully written to Hello_World.txt
+```
+
 ### 🧪 Error Handling
 A program that:
 - Asks for a filename from the user.
