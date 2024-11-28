@@ -1,5 +1,5 @@
 """
-Error Handling Lab
+Error Handling
 
 This script prompts the user for a filename to read. It attempts to open the file using UTF-8 encoding.
 If the file is successfully opened, its content is printed. If any error occurs during this process,
